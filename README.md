@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/seyhana)
 
-<table style="border: none!important;" cellspacing="0" cellpadding="0">
+<table style="border: none!important;border:hidden;border-collapse: collapse; " cellspacing="0" cellpadding="0">
   <tr style="border: none!important;">
     <td style="border: none!important;"><img src="https://projecteuler.net/profile/saktas.png"></td>
     <td style="border: none!important;"><a href="https://stackexchange.com/users/2061622"><img src="https://stackexchange.com/users/flair/2061622.png" width="208" height="58" alt="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></td>
