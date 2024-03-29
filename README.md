@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/seyhana)
 
-https://projecteuler.net/profile/saktas.png
+[<img src="profile/saktas.png">](https://projecteuler.net/)
