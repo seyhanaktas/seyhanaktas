@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/seyhana)
 
-<div style="float:left;">
-<span style="display:inline;"><img src="https://projecteuler.net/profile/saktas.png"></span>
+<table style="border: none;">
+  <tr>
+    <td><img src="https://projecteuler.net/profile/saktas.png"></td>
+    <td><a href="https://stackexchange.com/users/2061622"><img src="https://stackexchange.com/users/flair/2061622.png" width="208" height="58" alt="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></td>
+  </tr>
+</table>
 
-<span style="display:inline;"><a href="https://stackexchange.com/users/2061622"><img src="https://stackexchange.com/users/flair/2061622.png" width="208" height="58" alt="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></span>
-</div>
+
 
