@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/seyhana)
 
 
-<span><img src="https://projecteuler.net/profile/saktas.png">](https://projecteuler.net/profile/saktas.png)</span>
+<span><img src="https://projecteuler.net/profile/saktas.png"></span>
 
 <span><a href="https://stackexchange.com/users/2061622"><img src="https://stackexchange.com/users/flair/2061622.png" width="208" height="58" alt="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for seyhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></span>
 
