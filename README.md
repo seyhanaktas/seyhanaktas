@@ -9,6 +9,7 @@
   <img alt="Openshift" src="https://img.shields.io/badge/Openshift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
   <img alt="Rabbit MQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/csharp-99CC00?style=flat-square&logo=sharp&logoColor=white" />
