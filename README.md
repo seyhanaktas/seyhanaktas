@@ -7,6 +7,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Openshift" src="https://img.shields.io/badge/Openshift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Rabbit MQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
