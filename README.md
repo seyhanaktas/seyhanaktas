@@ -6,7 +6,12 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle" />
+  <img alt="Apache Ant" src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apacheant" />
+  <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven" />
   <img alt="Openshift" src="https://img.shields.io/badge/Openshift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img alt="Oracle Weblogic" src="https://img.shields.io/badge/Oracle%20Weblogic-F80000?style=flat-square&logo=oracle&logoColor=black" />
+  <img alt="Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Rabbit MQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -20,6 +25,7 @@
   <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="Ext.Net" src="https://img.shields.io/badge/Ext.Net-46a2f1?style=flat-square&logoColor=white" />
+  <img alt="GWT" src="https://img.shields.io/badge/GWT-EE0000?style=flat-square&logoColor=black" />
   <img alt="Kendo UI" src="https://img.shields.io/badge/Kendo UI-43853d?style=flat-square&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black" />
