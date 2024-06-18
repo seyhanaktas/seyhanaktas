@@ -1,6 +1,6 @@
 👋 Nice to meet you! 
 
-- 🔭 I have been working at Ericsson as a fullstack developer since 5 years.
+- 🔭 I am a software developer with almost 13 years of experience and I have been working at Ericsson as a fullstack developer since 5 years.
 - 🌱 I’m currently learning aws.
 - 💬 Ask me about anything related to 
 <p>
