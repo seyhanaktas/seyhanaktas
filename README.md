@@ -21,6 +21,7 @@
   <img alt="c#" src="https://img.shields.io/badge/csharp-99CC00?style=flat-square&logo=sharp&logoColor=white" />
   <img alt="asp.net mvc" src="https://img.shields.io/badge/asp.net mvc-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="Entity Framework" src="https://img.shields.io/badge/Entity Framework-59666C?style=flat-square&logoColor=white" />
+  <img alt="JPA" src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=flat-square&logo=Hibernate&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=black" />
   <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
